@@ -251,6 +251,7 @@ function create_config( )
       "remind"
       "rules",
       "set",
+      "moderation2",
       "setadmin",
       "membercontrol",
       "moderation",
