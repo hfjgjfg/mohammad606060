@@ -240,7 +240,7 @@ function create_config( )
       "stats",
       "sudo",
       "tex",
-      "time",
+      "id2",
       "welcome",
       "chat",
       "echo",
